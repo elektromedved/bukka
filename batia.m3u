@@ -1,38 +1,94 @@
 #EXTM3U
-#EXTINF:0,5 канал UA
+#EXTINF:0,Горизонт ТВ UA
 #EXTGRP:Українські
-http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:0,Интер
+#EXTGRP:Українські
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:0,Малятко TV
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:0,ЧП Инфо
+#EXTGRP:Українські
+http://109.68.40.67/life/magnolia_2/index.m3u8
+#EXTINF:0,RTI
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:0,UA:КРИМ
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:0,K1
+#EXTGRP:Українські
+https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
+#EXTINF:0,UA:Культура
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:0,ВТВ-Плюс
+#EXTGRP:Українські
+http://iptv.rubintele.com:8552/play/a007
+#EXTINF:0,OTV
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:0,Прямой
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:0,Рада
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:0,Сонце
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:0,UA TV
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:0,UA Перший
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:0,Громадське
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
+#EXTINF:0,Еко
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:0,Еспресо
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 #EXTINF:0,КРТ
 #EXTGRP:Українські
 http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
 #EXTINF:0,Киев
 #EXTGRP:Українські
-http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
-#EXTINF:0,Макс 24
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:0,Music Box UA
 #EXTGRP:Українські
-http://live.maksmedia.cdnvideo.ru/maksmedia/maksmedia.sdp/playlist.m3u8
-#EXTINF:0,Перший
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:0,TV5 (Запорожье)
 #EXTGRP:Українські
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:0,Первый Городской (Одесса)
+#EXTGRP:Українські
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/1tvod/1tvod/chunks.m3u8
+#EXTINF:0,ТВ-Дом (Украина)
+#EXTGRP:Українські
+http://78.26.128.21:8082/stream.flv?stream=133
+#EXTINF:0,ТРК Черновцы
+#EXTGRP:Українські
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:0,Третий Цифровой
+#EXTGRP:Українські
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:0,5 канал UA
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
 #EXTINF:0,News 24
 #EXTGRP:Українські
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
-#EXTINF:0,UA TV
-#EXTGRP:Українські
-http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
 #EXTINF:0,UA Крым
 #EXTGRP:Українські
 http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
-#EXTINF:0,Громадське
-#EXTGRP:Українські
-http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
 #EXTINF:0,Перший Заходний
 #EXTGRP:Українські
 http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
-
-#EXTINF:0,Прямой
-#EXTGRP:Українські
-http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
 #EXTINF:0,Еспресо
 #EXTGRP:Українські
 http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
@@ -42,52 +98,49 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:0,Первый деловой
 #EXTGRP:Українські
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
-#EXTINF:0,Сонце
-#EXTGRP:Українські
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
-#EXTINF:0,Рада
-#EXTGRP:Українські
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8
 #EXTINF:0,112 Украина HD
 #EXTGRP:Українські
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:0,ЧП Инфо
 #EXTGRP:Українські
 http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:0,Bambarbia TV HD
+#EXTGRP:Українські
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:0,Громадське HD
+#EXTGRP:Українські
+http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8
+#EXTINF:0,Южная Волна HD
+#EXTGRP:Українські
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/chunks.m3u8
+#EXTINF:0,112 Украина HD
+#EXTGRP:Українські
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:0,MostVideo TV HD
+#EXTGRP:Українські
+http://w4.mostvideo.tv/tv/ch1.m3u8
 
-#EXTINF:0,Трофей HD
-#EXTGRP:познавательные
-http://str.trofey.net:1935/live/2_max.smil/chunklist_w1001411868_b2000000.m3u8?id=2&session=1
+
 #EXTINF:0,Настоящее время
 #EXTGRP:познавательные
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0540_av-p.m3u8
 
-#EXTINF:0,Че +2 (Сургут)
-#EXTGRP:Русские
-http://tvsever.ru:1936/live/ach2/playlist.m3u8
-#EXTINF:0,Домашний +2 (Сургут)
-#EXTGRP:Русские
-http://tvsever.ru:1936/live/adm2/playlist.m3u8
+
 #EXTINF:0,Мир
 #EXTGRP:Русские
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
+#EXTINF:0,Первый Канал
+#EXTGRP:Русские
+http://79.135.71.195:7777
 #EXTINF:0,НТВ (Молдова)
 #EXTGRP:Русские
 http://93.115.137.166/hls/ntvm.m3u8
-#EXTINF:0,ТВЦ
-#EXTGRP:Русские
-http://tvc.cdnvideo.ru/tvc-p212/smil:tvc.smil/playlist.m3u8
-#EXTINF:0,360 (Ярославль)
-#EXTGRP:Русские
-http://gtk.tv/hls/gtr.m3u8
 #EXTINF:0,8 Канал
 #EXTGRP:Русские
 http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 #EXTINF:0,8 Канал (Int.)
 #EXTGRP:Русские
 http://v1.proofix.ru/live-tv8-2/europe/playlist.m3u8
-
 #EXTINF:0,IZ.RU
 #EXTGRP:Русские
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -127,18 +180,15 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:0,РБК
 #EXTGRP:Русские
 http://92.50.128.180/utv/1358/index.m3u8
-
 #EXTINF:0,Россия 1
 #EXTGRP:Русские
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 #EXTINF:0,Россия 1 +6 (Чита)
 #EXTGRP:Русские
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
-
 #EXTINF:0,Россия К
 #EXTGRP:Русские
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
-
 #EXTINF:0,ТБН
 #EXTGRP:Русские
 http://109.68.190.192:1935/WEB_TBN/TBN.stream/playlist.m3u8
@@ -178,7 +228,6 @@ http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:0,КиноМеню HD
 #EXTGRP:кино
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-
 #EXTINF:0,News 24 HD
 #EXTGRP:HD
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
@@ -197,7 +246,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:0,Новое Телевидение HD
 #EXTGRP:HD
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-
 #EXTINF:0,Most Video TV HD
 #EXTGRP:HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
@@ -210,6 +258,7 @@ http://rtmp.one.by:1300
 #EXTINF:0,Первый Музыкальный RU HD BY
 #EXTGRP:HD
 http://rtmp.one.by:2300
+
 #EXTINF:0,О2 ТВ
 #EXTGRP:музыка
 http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
@@ -225,14 +274,12 @@ http://217.12.116.122/hls/rutv_direct.m3u8
 #EXTINF:0,Новое Радио ТВ
 #EXTGRP:музыка
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-
 #EXTINF:0,Страна FM TV
 #EXTGRP:музыка
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0,1Music (Hungary)
 #EXTGRP:музыка
 http://stream.1music.hu/stream/1music.m3u8
-
 #EXTINF:0,Hit TV
 #EXTGRP:музыка
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
@@ -269,7 +316,6 @@ http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:0,BIM TV
 #EXTGRP:музыка
 http://av.bimradio.ru/hls/video2/index.m3u8
-
 #EXTINF:0,Ocko
 #EXTGRP:музыка
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
